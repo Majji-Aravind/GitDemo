@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="90" started-at="2020-06-23T22:32:29 IST" finished-at="2020-06-23T22:32:29 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="90" started-at="2020-06-23T22:32:29 IST" finished-at="2020-06-23T22:32:29 IST">
+      <class name="Testcases.PechuDoingTest">
+        <test-method status="PASS" signature="Testdone()[pri:0, instance:Testcases.PechuDoingTest@42dafa95]" name="Testdone" duration-ms="9" started-at="2020-06-23T22:32:29 IST" finished-at="2020-06-23T22:32:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testdone -->
+        <test-method status="PASS" signature="doTest()[pri:0, instance:Testcases.PechuDoingTest@42dafa95]" name="doTest" duration-ms="1" started-at="2020-06-23T22:32:29 IST" finished-at="2020-06-23T22:32:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTest -->
+      </class> <!-- Testcases.PechuDoingTest -->
+      <class name="Testcases.AravindTest">
+        <test-method status="PASS" signature="ImTest()[pri:0, instance:Testcases.AravindTest@6500df86]" name="ImTest" duration-ms="1" started-at="2020-06-23T22:32:29 IST" finished-at="2020-06-23T22:32:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImTest -->
+      </class> <!-- Testcases.AravindTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

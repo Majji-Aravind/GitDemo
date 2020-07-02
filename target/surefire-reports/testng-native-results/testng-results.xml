@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="138" started-at="2020-06-18T12:10:24 IST" finished-at="2020-06-18T12:10:25 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="138" started-at="2020-06-18T12:10:24 IST" finished-at="2020-06-18T12:10:25 IST">
+      <class name="Testcases.PechuDoingTest">
+        <test-method status="PASS" signature="Testdone()[pri:0, instance:Testcases.PechuDoingTest@42dafa95]" name="Testdone" duration-ms="9" started-at="2020-06-18T12:10:25 IST" finished-at="2020-06-18T12:10:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testdone -->
+        <test-method status="PASS" signature="doTest()[pri:0, instance:Testcases.PechuDoingTest@42dafa95]" name="doTest" duration-ms="0" started-at="2020-06-18T12:10:25 IST" finished-at="2020-06-18T12:10:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTest -->
+      </class> <!-- Testcases.PechuDoingTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
