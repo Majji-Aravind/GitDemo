@@ -12,9 +12,9 @@ public class PechuDoingTest {
 		Assert.assertTrue(false);
 	}
 	@Test
-	public void Testdone()
+	public void Testdoneforanna()
 	{
-		System.out.println("Testing is over and out");
+		System.out.println("Testing is perfectly done anna");
 	}
 	
 	@Test
