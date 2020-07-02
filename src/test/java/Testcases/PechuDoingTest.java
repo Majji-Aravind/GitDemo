@@ -22,4 +22,10 @@ public class PechuDoingTest {
 	{
 		System.out.println("Testing nannu em cheyalevu ra");
 	}
+	
+	@Test
+	public void Wonderwoman()
+	{
+		System.out.println("Instead of all hardships she is the best of others");
+	}
 }
