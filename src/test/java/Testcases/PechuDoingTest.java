@@ -16,4 +16,10 @@ public class PechuDoingTest {
 	{
 		System.out.println("Testing is over and out");
 	}
+	
+	@Test
+	public void Nannuemcheyalevra()
+	{
+		System.out.println("Testing nannu em cheyalevu ra");
+	}
 }
